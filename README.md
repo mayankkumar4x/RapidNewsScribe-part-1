@@ -1,9 +1,9 @@
 
 ### News Section 
-![image](/image/Newspage(2).png)
+![image](/image/Newspage.png)
 
 ### Notes Section
-![image](/image/Notes(2).png)
+![image](/image/Notes.png)
 
 ### Edit Note, SignUp Form, Login Form
 ![image](/image/Editnote.png)![image](/image/SignUpform.png)![image](/image/Login.png)
