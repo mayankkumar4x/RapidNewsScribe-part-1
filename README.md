@@ -34,6 +34,10 @@
 #### Automatic News URL Saving with Notes for Future:
 When user saves a note , the system automatically associates news article url with note.
 
+#### NewsApp:
+-https://github.com/mayankkumar4x/RapidNewsScribe-part-1
+#### Note Taking
+https://github.com/mayankkumar4x/RapidNewsScribe-Part-2
 
 
 <!-- # Getting Started with Create React App
